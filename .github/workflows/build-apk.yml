@@ -34,6 +34,7 @@ jobs:
       - name: Pasang paket
         run: |
           npm install
+          npx expo install expo-asset
           npx expo install --fix
 
       - name: Buat proyek Android
