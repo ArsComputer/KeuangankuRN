@@ -22,7 +22,7 @@
   &nbsp;
   <img src="docs/beranda-gelap.png" alt="Mode gelap" width="230">
 </p>
-<p align="center"><sub>Screenshot dari versi web. Data hanya contoh.</sub></p>
+<p align="center"><sub>Screenshot dari versi web. Aplikasi Android memakai desain yang sama. Data hanya contoh.</sub></p>
 
 ## Fitur
 
@@ -31,7 +31,7 @@
 - **Kategori** siap pakai. Pengeluaran: Makan, Transport, Belanja, Tagihan, Hiburan, Kesehatan, Pendidikan, Lainnya. Pemasukan: Uang saku, Gaji, Bonus, Usaha, Lainnya.
 - **Ringkasan** saldo, total pemasukan, dan total pengeluaran di bagian atas.
 - **Filter** daftar: Semua, Pemasukan, atau Pengeluaran.
-- **Pilih tanggal** transaksi. Di versi web, daftar juga dikelompokkan per hari (Hari ini, Kemarin, dan seterusnya).
+- **Pilih tanggal** transaksi. Daftar dikelompokkan per hari (Hari ini, Kemarin, dan seterusnya).
 - **Jumlah otomatis berformat** rupiah dengan titik ribuan saat mengetik (`1500000` menjadi `1.500.000`).
 - **Konfirmasi sebelum hapus**, supaya tidak terhapus tanpa sengaja.
 - **Tema lembut** hijau sage yang tidak menyilaukan, otomatis mengikuti mode terang atau gelap di HP.
