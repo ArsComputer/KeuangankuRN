@@ -276,7 +276,8 @@
     font-size: 22px;
     line-height: 1;
   }
-  form { display: grid; gap: 6px; }
+  form { display: grid; grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  form > * { min-width: 0; }
   label, .field-label { font-size: 13px; color: var(--sub); font-weight: 500; margin-top: 10px; }
   .amount-box {
     display: flex;
